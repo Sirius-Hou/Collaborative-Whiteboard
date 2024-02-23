@@ -1,5 +1,8 @@
 # YADA Collaborative Whiteboard Android App
 
+![image](https://github.com/Sirius-Hou/Collaborative-Whiteboard/assets/118148925/4b1590b6-6c55-4d30-a74f-0bd107b35738)
+
+
 ## Description
 YADA (Yet Another Drawing App) is an android app that allows multiple users to draw on a canvas together in real-time, making sharing ideas easier and more interactive.
 
