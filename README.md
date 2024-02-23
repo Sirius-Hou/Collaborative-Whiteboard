@@ -28,23 +28,14 @@ Sohaib Nadeem (s26nadee@uwaterloo.ca)
 * version 0.4 ([release notes](https://github.com/Sirius-Hou/Collaborative-Whiteboard/blob/main/releases/v0.4-release-notes.md), [apk](https://github.com/Sirius-Hou/Collaborative-Whiteboard/blob/main/releases/v0.4-build.apk))
 * version 1.0 ([release notes](https://github.com/Sirius-Hou/Collaborative-Whiteboard/blob/main/releases/v1.0-release-notes.md), [apk](https://github.com/Sirius-Hou/Collaborative-Whiteboard/blob/main/releases/v1.0-build.apk))
 
-
-
-
-* version 0.1 ([release notes](https://git.uwaterloo.ca/s26nadee/cs346-project/-/blob/main/releases/v0.1-release-notes.md), [apk](https://git.uwaterloo.ca/s26nadee/cs346-project/-/blob/main/releases/v0.1-build.apk))
-* version 0.2 ([release notes](https://git.uwaterloo.ca/s26nadee/cs346-project/-/blob/main/releases/v0.2-release-notes.md), [apk](https://git.uwaterloo.ca/s26nadee/cs346-project/-/blob/main/releases/v0.2-build.apk))
-* version 0.3 ([release notes](https://git.uwaterloo.ca/s26nadee/cs346-project/-/blob/main/releases/v0.3-release-notes.md), [apk](https://git.uwaterloo.ca/s26nadee/cs346-project/-/blob/main/releases/v0.3-build.apk))
-* version 0.4 ([release notes](https://git.uwaterloo.ca/s26nadee/cs346-project/-/blob/main/releases/v0.4-release-notes.md), [apk](https://git.uwaterloo.ca/s26nadee/cs346-project/-/blob/main/releases/v0.4-build.apk))
-* version 1.0 ([release notes](https://git.uwaterloo.ca/s26nadee/cs346-project/-/blob/main/releases/v1.0-release-notes.md), [apk](https://git.uwaterloo.ca/s26nadee/cs346-project/-/blob/main/releases/v1.0-build.apk))
-
 ## Project Links
-- [Project Proposal](https://git.uwaterloo.ca/s26nadee/cs346-project/-/wikis/Project-Proposal)
-- Meeting minutes: [Sprint 1](https://git.uwaterloo.ca/s26nadee/cs346-project/-/wikis/Sprint-1-Meeting-Minutes), 
-[Sprint 2](https://git.uwaterloo.ca/s26nadee/cs346-project/-/wikis/Sprint-2-Meeting-Minutes), [Sprint 3](https://git.uwaterloo.ca/s26nadee/cs346-project/-/wikis/Sprint-3-Meeting-Minutes), [Sprint 4](https://git.uwaterloo.ca/s26nadee/cs346-project/-/wikis/Sprint-4-Meeting-Minutes)
-- [Requirements](https://git.uwaterloo.ca/s26nadee/cs346-project/-/wikis/Requirements)
-- [Architecture & Design](https://git.uwaterloo.ca/s26nadee/cs346-project/-/wikis/Architecture-and-Design)
-- [Reflections on practices](https://git.uwaterloo.ca/s26nadee/cs346-project/-/wikis/Reflections-on-practices)
-- Software Releases and Installation Instructions  are mentioned above
+- [Project Proposal](https://github.com/Sirius-Hou/Collaborative-Whiteboard/blob/main/wiki/Project-Proposal.md)
+- Meeting minutes: [Sprint 1](https://github.com/Sirius-Hou/Collaborative-Whiteboard/blob/main/wiki/Sprint-1-Meeting-Minutes.md), 
+[Sprint 2](https://github.com/Sirius-Hou/Collaborative-Whiteboard/blob/main/wiki/Sprint-2-Meeting-Minutes.md), [Sprint 3](https://github.com/Sirius-Hou/Collaborative-Whiteboard/blob/main/wiki/Sprint-3-Meeting-Minutes.md), [Sprint 4](https://github.com/Sirius-Hou/Collaborative-Whiteboard/blob/main/wiki/Sprint-4-Meeting-Minutes.md)
+- [Requirements](https://github.com/Sirius-Hou/Collaborative-Whiteboard/blob/main/wiki/Requirements.md)
+- [Architecture & Design](https://github.com/Sirius-Hou/Collaborative-Whiteboard/blob/main/wiki/Architecture-and-Design.md)
+- [Reflections on practices](https://github.com/Sirius-Hou/Collaborative-Whiteboard/blob/main/wiki/Reflections-on-practices.md)
+- Software Releases and Installation Instructions are mentioned above
 
 ## Acknowledgment
 Thanks to:
@@ -55,4 +46,4 @@ Thanks to:
 ## [License](https://git.uwaterloo.ca/s26nadee/cs346-project/-/blob/main/LICENSE.txt)
 
 ## Project status
-See the Project Plan section in the [Project Proposal](https://git.uwaterloo.ca/s26nadee/cs346-project/-/wikis/Project-Proposal) for planned features and current status. Development from the original team (under the Team Members section) is planned to stop on Dec 5, 2023.
+See the Project Plan section in the [Project Proposal](https://github.com/Sirius-Hou/Collaborative-Whiteboard/blob/main/wiki/Project-Proposal.md) for planned features and current status. Development from the original team (under the Team Members section) is planned to stop on Dec 5, 2023.
