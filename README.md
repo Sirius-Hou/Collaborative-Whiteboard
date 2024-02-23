@@ -1,6 +1,7 @@
 # YADA Collaborative Whiteboard Android App
 
-![image](https://github.com/Sirius-Hou/Collaborative-Whiteboard/assets/118148925/4b1590b6-6c55-4d30-a74f-0bd107b35738)![image](https://github.com/Sirius-Hou/Collaborative-Whiteboard/assets/118148925/e7e31fcd-7c26-4bf0-8783-0dac20464575)
+![image](https://github.com/Sirius-Hou/Collaborative-Whiteboard/assets/118148925/65b1e4d7-f3b9-4a11-a134-765c58b6c4a6)![image](https://github.com/Sirius-Hou/Collaborative-Whiteboard/assets/118148925/04adc0b7-a35c-4f06-9e85-5e1a91d5118a)
+
 
 
 
