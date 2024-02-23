@@ -19,7 +19,7 @@ David Mo (d7mo@uwaterloo.ca),
 Sirius Hou (y45hou@uwaterloo.ca),
 Sohaib Nadeem (s26nadee@uwaterloo.ca)
 
-## [Installation Instructions](https://git.uwaterloo.ca/s26nadee/cs346-project/-/wikis/Installation-Instructions) 
+## [Installation Instructions](https://github.com/Sirius-Hou/Collaborative-Whiteboard/blob/main/wiki/Installation-Instructions.md) 
 
 ## Software Releases
 * version 0.1 ([release notes](https://github.com/Sirius-Hou/Collaborative-Whiteboard/blob/main/releases/v0.1-release-notes.md), [apk](https://github.com/Sirius-Hou/Collaborative-Whiteboard/blob/main/releases/v0.1-build.apk))
