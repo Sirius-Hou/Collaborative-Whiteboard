@@ -1,4 +1,4 @@
-# YADA
+# YADA Collaborative Whiteboard Android App
 
 ## Description
 YADA (Yet Another Drawing App) is an android app that allows multiple users to draw on a canvas together in real-time, making sharing ideas easier and more interactive.
@@ -22,6 +22,15 @@ Sohaib Nadeem (s26nadee@uwaterloo.ca)
 ## [Installation Instructions](https://git.uwaterloo.ca/s26nadee/cs346-project/-/wikis/Installation-Instructions) 
 
 ## Software Releases
+* version 0.1 ([release notes](https://github.com/Sirius-Hou/Collaborative-Whiteboard/blob/main/releases/v0.1-release-notes.md), [apk](https://github.com/Sirius-Hou/Collaborative-Whiteboard/blob/main/releases/v0.1-build.apk))
+* version 0.2 ([release notes](https://github.com/Sirius-Hou/Collaborative-Whiteboard/blob/main/releases/v0.2-release-notes.md), [apk](https://github.com/Sirius-Hou/Collaborative-Whiteboard/blob/main/releases/v0.2-build.apk))
+* version 0.3 ([release notes](https://github.com/Sirius-Hou/Collaborative-Whiteboard/blob/main/releases/v0.3-release-notes.md), [apk](https://github.com/Sirius-Hou/Collaborative-Whiteboard/blob/main/releases/v0.3-build.apk))
+* version 0.4 ([release notes](https://github.com/Sirius-Hou/Collaborative-Whiteboard/blob/main/releases/v0.4-release-notes.md), [apk](https://github.com/Sirius-Hou/Collaborative-Whiteboard/blob/main/releases/v0.4-build.apk))
+* version 1.0 ([release notes](https://github.com/Sirius-Hou/Collaborative-Whiteboard/blob/main/releases/v1.0-release-notes.md), [apk](https://github.com/Sirius-Hou/Collaborative-Whiteboard/blob/main/releases/v1.0-build.apk))
+
+
+
+
 * version 0.1 ([release notes](https://git.uwaterloo.ca/s26nadee/cs346-project/-/blob/main/releases/v0.1-release-notes.md), [apk](https://git.uwaterloo.ca/s26nadee/cs346-project/-/blob/main/releases/v0.1-build.apk))
 * version 0.2 ([release notes](https://git.uwaterloo.ca/s26nadee/cs346-project/-/blob/main/releases/v0.2-release-notes.md), [apk](https://git.uwaterloo.ca/s26nadee/cs346-project/-/blob/main/releases/v0.2-build.apk))
 * version 0.3 ([release notes](https://git.uwaterloo.ca/s26nadee/cs346-project/-/blob/main/releases/v0.3-release-notes.md), [apk](https://git.uwaterloo.ca/s26nadee/cs346-project/-/blob/main/releases/v0.3-build.apk))
