@@ -1,0 +1,9 @@
+We used **Driver-Navigator pair programming** as a coding practice in every sprint, and we found this particularly effective. We were able to tackle the most complicated features, such as client/server communications and zoom/drag, through this methodology.
+
+An area where we could **improve** upon is that we could rotate the pairing partners regularly. This way, each of us would know better about every aspect of the project, even if they were not responsible for developing it.
+
+We also conducted **code reviews** extensively. After a merge request is made, the person would notify our discord server to review his/her code. We merge the code only after at least 1 person approves of the change.
+
+We set up a **build pipeline** that would be triggered whenever an MR is created. This would ensure that any changes made do not break the project build.
+
+**Communication**: Most project-related communication was done through our discord server or in-person. As mentioned before, any merge requests created would be mentioned on the discord server by the author and other team members would provide feedback there. Meetings were held on discord as early as possible for each sprint (usually the weekend before the sprint began) so that the entire team would have adequate time to work on the issues. During the sprint kickoff meetings, we would refer to high level objectives in our proposal and roadmap to identify issues that needed to be focused on for that sprint, and also note down any incomplete issues or bugs from previous sprints. We would also follow up on work in-progress halfway through the sprint to make sure we were on track to complete the planned work. We also set up physical meetings for more involved work like discussing ideas and making design decisions, doing pair-programming, and testing the syncing feature across multiple devices.
